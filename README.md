@@ -11,3 +11,5 @@ On my journey to learn the secrets of JS, https://www.freecodecamp.org/learn hel
   * Large Straight (5 in a row) = 40
   * None of the Above = 0
 * See if you can beat my high score of 166
+
+https://dicegaming.onrender.com
